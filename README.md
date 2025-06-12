@@ -33,11 +33,19 @@
 
 ---
 
+### 📙 My Contributions
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/promisetuhaise/promisetuhaise/output/github-snake-darkBlue.svg" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=promisetuhaise&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promisetuhaise&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=promisetuhaise&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promisetuhaise&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="47%"/>
 </p>
 
 ---
@@ -46,13 +54,13 @@
 
 <p align="center">
   <a href="https://github.com/promisetuhaise">
-    <img title="🔥 promisetuhaise Streaks" alt="promisetuhaise's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=promisetuhaise&theme=cobalt&hide_border=true&short_numbers=true"/>
+    <img title="🔥 promisetuhaise Streaks" alt="promisetuhaise's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=promisetuhaise&theme=cobalt&hide_border=true&short_numbers=true&count_private=true&include_all_commits=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/promisetuhaise">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=promisetuhaise&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=00000000" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=promisetuhaise&theme=cobalt&hide_border=true&hide_title=false& Luigi=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=00000000&count_private=true&include_all_commits=true" width="100%" alt="activity graph">
   </a>
 </p>
 
@@ -68,7 +76,7 @@
 
 ### 🌟 Fun Fact
 
-> I'm passionate about using tech to uplift women, communities, and underrepresented voices and build impactful solutions!
+> I'm passionate about using tech to uplift women, communities, and underrepresented voices — one project at a time!
 
 <!--
 **promisetuhaise/promisetuhaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

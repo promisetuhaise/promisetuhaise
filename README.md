@@ -33,14 +33,6 @@
 
 ---
 
-### 📙 My Contributions
-
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/promisetuhaise/promisetuhaise/output/github-snake-darkBlue.svg" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -60,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/promisetuhaise">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=promisetuhaise&theme=cobalt&hide_border=true&hide_title=false& Luigi=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=00000000&count_private=true&include_all_commits=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=promisetuhaise&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=00000000&count_private=true&include_all_commits=true" width="100%" alt="activity graph">
   </a>
 </p>
 

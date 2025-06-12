@@ -42,6 +42,22 @@
 
 ---
 
+### 📈 Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/promisetuhaise">
+    <img title="🔥 promisetuhaise Streaks" alt="promisetuhaise's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=promisetuhaise&theme=cobalt&hide_border=true&short_numbers=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/promisetuhaise">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=promisetuhaise&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=00000000" width="100%" alt="activity graph">
+  </a>
+</p>
+
+---
+
 ### 🔗 Let's Connect
 
 - 🌐 [Personal Website](https://tuhaisepromise-personalweb.vercel.app/)
@@ -53,7 +69,6 @@
 ### 🌟 Fun Fact
 
 > I'm passionate about using tech to uplift women, communities, and underrepresented voices — one project at a time!
-
 
 <!--
 **promisetuhaise/promisetuhaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

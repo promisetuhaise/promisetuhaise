@@ -68,7 +68,7 @@
 
 ### 🌟 Fun Fact
 
-> I'm passionate about using tech to uplift women, communities, and underrepresented voices — one project at a time!
+> I'm passionate about using tech to uplift women, communities, and underrepresented voices and build impactful solutions!
 
 <!--
 **promisetuhaise/promisetuhaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

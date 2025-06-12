@@ -11,7 +11,7 @@
 - 🎓 I'm a software engineer with a focus on building scalable web and mobile applications.
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **system design best practices**.
 - 🛠️ I enjoy working on real-world projects that solve everyday problems, especially for social good.
-- 👩‍🎓 Alumni of ALX and other hands-on tech programs.
+- 👩‍🎓 Alumni of Udacity and other hands-on tech programs.
 
 ---
 

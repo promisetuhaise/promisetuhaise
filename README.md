@@ -56,7 +56,7 @@
 
 ### 🌟 Fun Fact
 
-> I'm passionate about using tech to uplift women, communities, and underrepresented voices — one project at a time!
+> I'm passionate about using tech to uplift women, communities,underrepresented voices and also build impactful solutions !
 
 
 <!--

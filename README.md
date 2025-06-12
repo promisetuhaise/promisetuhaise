@@ -9,10 +9,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm a software engineer with a focus on building scalable web and mobile applications.
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **system design best practices** to build performant and scalable systems.
+- 🌱 Currently learning **Next.js**, **TypeScript**, and **system design best practices**.
 - 🛠️ I enjoy working on real-world projects that solve everyday problems, especially for social good.
-- 👩‍🎓 Alumni of Udacity's Full Stack Web Developer Nanodegree and other hands-on tech programs.
-- 👯 I’m looking to collaborate on open-source projects that uplift communities and underrepresented voices!
+- 👩‍🎓 Alumni of ALX and other hands-on tech programs.
 
 ---
 
@@ -34,28 +33,11 @@
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=promisetuhaise&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promisetuhaise&layout=compact&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" width="47%"/>
-</p>
-
----
-
-### 📈 Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/promisetuhaise">
-    <img title="🔥 promisetuhaise Streaks" alt="promisetuhaise's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=promisetuhaise&theme=cobalt&hide_border=true&short_numbers=true&count_private=true&include_all_commits=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/promisetuhaise">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=promisetuhaise&theme=cobalt&hide_border=true&hide_title=false&custom_title=Total%20contribution%20graph%20in%20all%20repos&bg_color=00000000&count_private=true&include_all_commits=true" width="100%" alt="activity graph">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=promisetuhaise&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promisetuhaise&layout=compact&theme=radical" width="47%"/>
 </p>
 
 ---
@@ -64,10 +46,26 @@
 
 - 🌐 [Personal Website](https://tuhaisepromise-personalweb.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/promise-tuhaise/)
-- 📫 Email: promisetuhaise [at] gmail [dot] com
+- 📫 Email: promisetuhaise@gmail.com
 
 ---
 
 ### 🌟 Fun Fact
 
 > I'm passionate about using tech to uplift women, communities, and underrepresented voices — one project at a time!
+
+
+<!--
+**promisetuhaise/promisetuhaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
